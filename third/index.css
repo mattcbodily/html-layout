@@ -1,0 +1,49 @@
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+.row {
+    height: 100px;
+    width: 100%;
+}
+
+.row-big {
+    height: 200px;
+    width: 100%;
+}
+
+.row-one {
+    background-color: rgb(209, 209, 209);
+    padding: 25px;
+    box-sizing: border-box;
+}
+
+.row-one-mini {
+    height: 50px;
+    width: 50px;
+    background-color: rgba(0, 119, 255, 0.815);
+}
+
+.row-two {
+    background-color: white;
+    padding: 50px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.row-three {
+    background-color: rgba(0, 119, 255, 0.815);
+}
+
+.row-four {
+    background-color: rgb(2, 231, 174);
+}
+
+.row-five {
+    background-color: rgba(185, 185, 0, 0.767);
+}
+
+.row-six {
+    background-color: rgb(255, 255, 0);
+}
